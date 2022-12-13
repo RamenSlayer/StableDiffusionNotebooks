@@ -1,1 +1,1 @@
-Unlocked NSFW for annoyance purposes. Changed model to runwayml/stable-diffusion-v1-5
+Stable diffusion notebooks, combining diferent models and pipelines in one, having intuitive descriptions and workflow. Includes options for my favorite models and supports using custom models from huggingface. 
